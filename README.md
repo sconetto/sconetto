@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Golang 🐹 and German 🇩🇪
 - 👥 I’m always looking to collaborate with other developers in interesting projects and love to support with translations/standardization
 - 🥅 2026 Goals: Contribute more to Open Source projects and restart [Project SRC][project-src]
-- ⚡ Fun fact: I love a good specialty coffee lover ☕️, long walks to photograph the city 📷, watching F1 and Endurance races 🏎️, and learn new languages (both for coding and conversations) 📚
+- ⚡ Fun fact: I love a good specialty coffee ☕️, long walks to photograph the city 📷, watching F1 and Endurance races 🏎️, and learn new languages (both for coding and conversations) 📚
 
 <br>
 
