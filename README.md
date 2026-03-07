@@ -30,6 +30,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My experience with _Vibe Coding_](https://blog.sconetto.me/posts/my-experience-with-vibe-coding/)
+- [Project documentation made easy!](https://blog.sconetto.me/posts/project-documentation/)
+- [About me](https://blog.sconetto.me/about/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://sconetto.me
