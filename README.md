@@ -9,7 +9,6 @@
 - 🥅 2026 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love a good specialty coffee or espresso ☕️, long walks to photograph the city 📷, watching F1 and endurance races 🏎️, and learn new languages (both for coding and conversations) 📚
 
-
 <br>
 <div align="center">
     <a href="mailto:work@sconetto.me" target="_blank"><img alt="sconetto | Email" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
@@ -27,6 +26,11 @@
 </div>
 
 ---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [website]: https://sconetto.me
 [project-src]: https://github.com/Project-SRC/
