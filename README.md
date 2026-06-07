@@ -30,6 +30,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Embracing Single Purpose Tech](https://blog.sconetto.me/posts/embracing-single-purpose-tech/)
 - [My experience with _Vibe Coding_](https://blog.sconetto.me/posts/my-experience-with-vibe-coding/)
 - [Project documentation made easy!](https://blog.sconetto.me/posts/project-documentation/)
 - [About me](https://blog.sconetto.me/about/)
