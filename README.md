@@ -30,11 +30,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Paradox of Too Much Code: Why AI Is Great and Terrifying at the Same Time](https://blog.sconetto.me/posts/the-paradox-of-too-much-code/)
 - [The AI Slop Epidemic: Why We Need to Slow Down and Read Our Code](https://blog.sconetto.me/posts/the-ai-slop-epidemic/)
 - [Embracing Single Purpose Tech](https://blog.sconetto.me/posts/embracing-single-purpose-tech/)
 - [My experience with _Vibe Coding_](https://blog.sconetto.me/posts/my-experience-with-vibe-coding/)
 - [Project documentation made easy!](https://blog.sconetto.me/posts/project-documentation/)
-- [About me](https://blog.sconetto.me/about/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://sconetto.me
