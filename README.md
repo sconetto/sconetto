@@ -27,6 +27,16 @@
 
 ---
 
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sconetto/sconetto/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sconetto/sconetto/output/github-contribution-grid-snake.svg">
+        <img alt="sconetto's contribution graph snake" src="https://raw.githubusercontent.com/sconetto/sconetto/output/github-contribution-grid-snake.svg">
+    </picture>
+</div>
+
+---
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
