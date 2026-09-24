@@ -27,6 +27,14 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<div align="center">
+    <img alt="sconetto's contribution graph snake" src="https://raw.githubusercontent.com/sconetto/sconetto/output/github-contribution-grid-snake.svg">
+</div>
+
+---
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
